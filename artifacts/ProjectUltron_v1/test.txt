@@ -1,6 +1,0 @@
-# test tts in assist. py 
-response = ask_question_memory("tell me a joke")
-print(response)
-TTS(response)
-
-

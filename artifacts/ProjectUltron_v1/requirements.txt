@@ -1,4 +1,0 @@
-ollama
-openai
-pygame
-piper-tts
